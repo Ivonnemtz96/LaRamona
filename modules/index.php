@@ -18,9 +18,6 @@
                             <a href="/menu" class="default-btn">Ver Menú</a>
                         </li>
                     </ul>
-                    <div class="banner-content-shape">
-                        <img src="/assets/images/banner/banner-two-shape-3.webp" alt="images" />
-                    </div>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -52,9 +49,9 @@
             <div class="col-lg-4 col-sm-6 col-md-6" data-cue="slideInUp">
                 <div class="single-features-card">
                     <div class="features-img">
-                        <img src="/assets/images/features/features-1.webp" alt="images" />
+                        <img style="width: 64px; height: 64px;" src="/assets/images/features/features-1.webp" alt="images" />
                         <div class="features-img-2">
-                            <img src="/assets/images/features/features-4.webp" alt="images" />
+                            <img  style="width: 64px; height: 64px;" src="/assets/images/features/features-4.webp" alt="images" />
                         </div>
                     </div>
                     <h3>Los mejores desayunos</h3>
@@ -62,7 +59,7 @@
                         Todo acompañado con nuestro café recién preparado y frutas naturales.
                     </p>
                     <div class="features-shape">
-                        <img src="/assets/images/features/features-shape.webp" alt="images" />
+                        <img src="/assets/images/features/features-shape.webp?=1" alt="images" />
                     </div>
                 </div>
             </div>
@@ -79,7 +76,7 @@
                         Deliciosos ingredientes que te dejarán un buen sabor de boca.
                     </p>
                     <div class="features-shape">
-                        <img src="/assets/images/features/features-shape.webp" alt="images" />
+                        <img src="/assets/images/features/features-shape2.webp" alt="images" />
                     </div>
                 </div>
             </div>
@@ -96,7 +93,7 @@
                         Los mejores cortes asados de res, aves y mariscos en nuestra parrilla de leña gaucha.
                     </p>
                     <div class="features-shape">
-                        <img src="/assets/images/features/features-shape.webp" alt="images" />
+                        <img src="/assets/images/features/features-shape3.webp" alt="images" />
                     </div>
                 </div>
             </div>
@@ -109,10 +106,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="single-about-two-img">
-                    <img src="/assets/images/about/about-two-img-1.webp" alt="images" />
-                    <div class="about-two-logo">
-                        <img src="/assets/images/about/about-logo.webp" alt="images" />
-                    </div>
+                    <img src="/assets/images/about/about-two-img-1.webp?=1" alt="images" />
                 </div>
             </div>
             <div class="col-lg-6">
