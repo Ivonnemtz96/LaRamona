@@ -16,6 +16,6 @@
     <link rel="stylesheet" href="assets/css/style.css" />
     <link rel="stylesheet" href="assets/css/dark.css" />
     <link rel="stylesheet" href="assets/css/responsive.css" />
-    <title>Ruzo - Restaurant & Cafe HTML Template</title>
+    <title>La Ramona - <?echo $title?></title>
     <link rel="icon" type="image/webp" href="assets/images/logo-2.webp" />
 </head>
