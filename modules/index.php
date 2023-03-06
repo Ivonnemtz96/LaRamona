@@ -25,7 +25,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="single-banner-two-image">
-                    <img src="/assets/images/banner/banner-two-img-2.webp" alt="images" />
+                    <img src="/assets/images/banner/banner-two-img-2.webp?=1" alt="images" />
                     <div class="banner-two-image">
                         <img src="/assets/images/banner/banner-two-img-1.webp" alt="images" data-cue="zoomIn"
                             data-duration="1500" />
