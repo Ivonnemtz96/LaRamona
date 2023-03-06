@@ -3970,7 +3970,7 @@ Start Visit Us Today area
 
 .visit-two-images {
   position: relative;
-  background-image: url(../images/visit-two-img.webp);
+  background-image: url(../images/visit-two-img.webp?=1);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;

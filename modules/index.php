@@ -102,7 +102,7 @@
 </div>
 
 <div class="about-two-area pt-100 pb-100">
-    <div class="container">
+    <div class="container" id="about">
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="single-about-two-img">
