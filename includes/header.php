@@ -31,18 +31,18 @@
                 <div class="submenu-left-content">
                     <ul>
                         <li>
-                            <img src="assets/images/phone-icon.svg" alt="icon" />
+                            <img src="/assets/images/phone-icon.svg" alt="icon" />
                             <a href="tel:(+0188)76870859">(+0188) 7687 0859</a>
                         </li>
                         <li>
-                            <img src="assets/images/email-icon.svg" alt="icon" />
+                            <img src="/assets/images/email-icon.svg" alt="icon" />
                             <a
                                 href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#ea828f868685aa989f90859e828f878f99c4898587"><span
                                     class="__cf_email__"
                                     data-cfemail="ddb5b8b1b1b29dafa8a7b2a9b5b8b0b8aef3beb2b0">[email&#160;protected]</span></a>
                         </li>
                         <li>
-                            <img src="assets/images/map.svg" alt="icon" />
+                            <img src="/assets/images/map.svg" alt="icon" />
                             <p>4b, Walse Street , USA</p>
                         </li>
                     </ul>
@@ -57,8 +57,8 @@
         <div class="mobile-nav">
             <div class="logo">
                 <a href="index.html">
-                    <img src="assets/images/logo-1.webp" class="logo-light" alt="images" />
-                    <img src="assets/images/logo-2.webp" class="logo-dark" alt="images" />
+                    <img src="/assets/images/logo-1.webp" class="logo-light" alt="images" />
+                    <img src="/assets/images/logo-2.webp" class="logo-dark" alt="images" />
                 </a>
             </div>
         </div>
@@ -209,8 +209,8 @@
                         </li>
                         <li class="nav-item logo">
                             <a href="index.html" class="nav-link">
-                                <img src="assets/images/logo-1.webp" class="logo-light" alt="images" />
-                                <img src="assets/images/logo-2.webp" class="logo-dark" alt="images" />
+                                <img src="/assets/images/logo-1.webp" class="logo-light" alt="images" />
+                                <img src="/assets/images/logo-2.webp" class="logo-dark" alt="images" />
                             </a>
                         </li>
                     </ul>
@@ -232,7 +232,7 @@
                         <div class="option-item">
                             <div class="shapping-bag">
                                 <a href="cart.html">
-                                    <img src="assets/images/shopping-bag-icon.svg" alt="images" />
+                                    <img src="/assets/images/shopping-bag-icon.svg" alt="images" />
                                 </a>
                                 <div class="shapping-text">01</div>
                             </div>
@@ -274,7 +274,7 @@
                         <div class="option-item">
                             <div class="shapping-bag">
                                 <a href="cart.html">
-                                    <img src="assets/images/shopping-bag-icon.svg" alt="images" />
+                                    <img src="/assets/images/shopping-bag-icon.svg" alt="images" />
                                 </a>
                                 <div class="shapping-text">01</div>
                             </div>

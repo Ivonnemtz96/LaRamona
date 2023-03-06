@@ -4,7 +4,7 @@
             <div class="col-lg-3 col-sm-6 col-md-6" data-cue="slideInUp">
                 <div class="footer-widget">
                     <a href="index.html">
-                        <img src="assets/images/logo-1.webp" alt="images" />
+                        <img src="/assets/images/logo-1.webp" alt="images" />
                     </a>
                     <p>
                         There are many variations of passages of lorem ipsum available
@@ -91,16 +91,16 @@
         </div>
     </div>
     <div class="footer-shape-1">
-        <img src="assets/images/footer/footer-shape-1.webp" alt="images" />
+        <img src="/assets/images/footer/footer-shape-1.webp" alt="images" />
     </div>
     <div class="footer-shape-2">
-        <img src="assets/images/footer/footer-shape-2.webp" alt="images" />
+        <img src="/assets/images/footer/footer-shape-2.webp" alt="images" />
     </div>
     <div class="footer-shape-3">
-        <img src="assets/images/footer/footer-shape-3.webp" alt="images" />
+        <img src="/assets/images/footer/footer-shape-3.webp" alt="images" />
     </div>
     <div class="footer-shape-4">
-        <img src="assets/images/footer/footer-shape-4.webp" alt="images" />
+        <img src="/assets/images/footer/footer-shape-4.webp" alt="images" />
     </div>
 </div>
 

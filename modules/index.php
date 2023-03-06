@@ -21,26 +21,26 @@
                         </li>
                     </ul>
                     <div class="banner-content-shape">
-                        <img src="assets/images/banner/banner-two-shape-3.webp" alt="images" />
+                        <img src="/assets/images/banner/banner-two-shape-3.webp" alt="images" />
                     </div>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="single-banner-two-image">
-                    <img src="assets/images/banner/banner-two-img-2.webp" alt="images" />
+                    <img src="/assets/images/banner/banner-two-img-2.webp" alt="images" />
                     <div class="banner-two-image">
-                        <img src="assets/images/banner/banner-two-img-1.webp" alt="images" data-cue="zoomIn"
+                        <img src="/assets/images/banner/banner-two-img-1.webp" alt="images" data-cue="zoomIn"
                             data-duration="1500" />
                     </div>
                     <div class="banner-two-dark">
-                        <img src="assets/images/banner/banner-two-dark-img.webp" alt="images" data-cue="zoomIn"
+                        <img src="/assets/images/banner/banner-two-dark-img.webp" alt="images" data-cue="zoomIn"
                             data-duration="1500" />
                     </div>
                     <div class="banner-two-shape-1">
-                        <img src="assets/images/banner/banner-two-shape-1.webp" alt="images" />
+                        <img src="/assets/images/banner/banner-two-shape-1.webp" alt="images" />
                     </div>
                     <div class="banner-two-shape-2">
-                        <img src="assets/images/banner/banner-two-shape-2.webp" alt="images" />
+                        <img src="/assets/images/banner/banner-two-shape-2.webp" alt="images" />
                     </div>
                 </div>
             </div>
@@ -54,9 +54,9 @@
             <div class="col-lg-4 col-sm-6 col-md-6" data-cue="slideInUp">
                 <div class="single-features-card">
                     <div class="features-img">
-                        <img src="assets/images/features/features-1.webp" alt="images" />
+                        <img src="/assets/images/features/features-1.webp" alt="images" />
                         <div class="features-img-2">
-                            <img src="assets/images/features/features-4.webp" alt="images" />
+                            <img src="/assets/images/features/features-4.webp" alt="images" />
                         </div>
                     </div>
                     <h3>Great Americano</h3>
@@ -65,16 +65,16 @@
                         repeat chunks as necessary predefined making this internet.
                     </p>
                     <div class="features-shape">
-                        <img src="assets/images/features/features-shape.webp" alt="images" />
+                        <img src="/assets/images/features/features-shape.webp" alt="images" />
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 col-md-6" data-cue="slideInUp">
                 <div class="single-features-card">
                     <div class="features-img">
-                        <img src="assets/images/features/features-2.webp" alt="images" />
+                        <img src="/assets/images/features/features-2.webp" alt="images" />
                         <div class="features-img-2">
-                            <img src="assets/images/features/features-5.webp" alt="images" />
+                            <img src="/assets/images/features/features-5.webp" alt="images" />
                         </div>
                     </div>
                     <h3>Delicious Latte</h3>
@@ -83,16 +83,16 @@
                         repeat chunks as necessary making this internet.
                     </p>
                     <div class="features-shape">
-                        <img src="assets/images/features/features-shape.webp" alt="images" />
+                        <img src="/assets/images/features/features-shape.webp" alt="images" />
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 col-md-6" data-cue="slideInUp">
                 <div class="single-features-card">
                     <div class="features-img">
-                        <img src="assets/images/features/features-3.webp" alt="images" />
+                        <img src="/assets/images/features/features-3.webp" alt="images" />
                         <div class="features-img-2">
-                            <img src="assets/images/features/features-6.webp" alt="images" />
+                            <img src="/assets/images/features/features-6.webp" alt="images" />
                         </div>
                     </div>
                     <h3>Best Mocha</h3>
@@ -101,7 +101,7 @@
                         repeat chunks as necessary making this internet.
                     </p>
                     <div class="features-shape">
-                        <img src="assets/images/features/features-shape.webp" alt="images" />
+                        <img src="/assets/images/features/features-shape.webp" alt="images" />
                     </div>
                 </div>
             </div>
@@ -114,9 +114,9 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="single-about-two-img">
-                    <img src="assets/images/about/about-two-img-1.webp" alt="images" />
+                    <img src="/assets/images/about/about-two-img-1.webp" alt="images" />
                     <div class="about-two-logo">
-                        <img src="assets/images/about/about-logo.webp" alt="images" />
+                        <img src="/assets/images/about/about-logo.webp" alt="images" />
                     </div>
                 </div>
             </div>
@@ -133,13 +133,13 @@
                     </div>
                     <div class="about-natural">
                         <div class="natural-img">
-                            <img src="assets/images/about/about-two-img-2.webp" alt="images" />
+                            <img src="/assets/images/about/about-two-img-2.webp" alt="images" />
                         </div>
                         <h3>Natural Coffee Beans</h3>
                     </div>
                     <div class="about-natural about-natural-two">
                         <div class="natural-img">
-                            <img src="assets/images/about/about-two-img-3.webp" alt="images" />
+                            <img src="/assets/images/about/about-two-img-3.webp" alt="images" />
                         </div>
                         <h3>100% ISO Certification</h3>
                     </div>
@@ -158,7 +158,7 @@
         </div>
         <div class="portfolio-two-slider owl-carousel owl-theme">
             <div class="portfolio-two-card">
-                <img src="assets/images/portfolio/portfolio-two-img-1.webp" alt="images" />
+                <img src="/assets/images/portfolio/portfolio-two-img-1.webp" alt="images" />
                 <div class="portfolio-two-content">
                     <a href="portfolio.html">
                         <h3>Chocolate Coffee</h3>
@@ -167,7 +167,7 @@
                 </div>
             </div>
             <div class="portfolio-two-card">
-                <img src="assets/images/portfolio/portfolio-two-img-2.webp" alt="images" />
+                <img src="/assets/images/portfolio/portfolio-two-img-2.webp" alt="images" />
                 <div class="portfolio-two-content">
                     <a href="portfolio.html">
                         <h3>Chocolate Coffee</h3>
@@ -176,7 +176,7 @@
                 </div>
             </div>
             <div class="portfolio-two-card">
-                <img src="assets/images/portfolio/portfolio-two-img-3.webp" alt="images" />
+                <img src="/assets/images/portfolio/portfolio-two-img-3.webp" alt="images" />
                 <div class="portfolio-two-content">
                     <a href="portfolio.html">
                         <h3>Chocolate Coffee</h3>
@@ -185,7 +185,7 @@
                 </div>
             </div>
             <div class="portfolio-two-card">
-                <img src="assets/images/portfolio/portfolio-two-img-4.webp" alt="images" />
+                <img src="/assets/images/portfolio/portfolio-two-img-4.webp" alt="images" />
                 <div class="portfolio-two-content">
                     <a href="portfolio.html">
                         <h3>Chocolate Coffee</h3>
@@ -194,7 +194,7 @@
                 </div>
             </div>
             <div class="portfolio-two-card">
-                <img src="assets/images/portfolio/portfolio-two-img-1.webp" alt="images" />
+                <img src="/assets/images/portfolio/portfolio-two-img-1.webp" alt="images" />
                 <div class="portfolio-two-content">
                     <a href="portfolio.html">
                         <h3>Chocolate Coffee</h3>
@@ -203,7 +203,7 @@
                 </div>
             </div>
             <div class="portfolio-two-card">
-                <img src="assets/images/portfolio/portfolio-two-img-2.webp" alt="images" />
+                <img src="/assets/images/portfolio/portfolio-two-img-2.webp" alt="images" />
                 <div class="portfolio-two-content">
                     <a href="portfolio.html">
                         <h3>Chocolate Coffee</h3>
@@ -212,7 +212,7 @@
                 </div>
             </div>
             <div class="portfolio-two-card">
-                <img src="assets/images/portfolio/portfolio-two-img-3.webp" alt="images" />
+                <img src="/assets/images/portfolio/portfolio-two-img-3.webp" alt="images" />
                 <div class="portfolio-two-content">
                     <a href="portfolio.html">
                         <h3>Chocolate Coffee</h3>
@@ -221,7 +221,7 @@
                 </div>
             </div>
             <div class="portfolio-two-card">
-                <img src="assets/images/portfolio/portfolio-two-img-4.webp" alt="images" />
+                <img src="/assets/images/portfolio/portfolio-two-img-4.webp" alt="images" />
                 <div class="portfolio-two-content">
                     <a href="portfolio.html">
                         <h3>Chocolate Coffee</h3>
@@ -284,7 +284,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-page-img-5.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-page-img-5.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -310,7 +310,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-4.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-4.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -336,7 +336,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-6.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-6.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -362,7 +362,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-5.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-5.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -395,7 +395,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-7.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-7.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -421,7 +421,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-4.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-4.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -447,7 +447,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-6.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-6.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -473,7 +473,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-5.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-5.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -506,7 +506,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-7.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-7.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -532,7 +532,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-4.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-4.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -558,7 +558,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-6.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-6.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -584,7 +584,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-5.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-5.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -617,7 +617,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-7.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-7.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -643,7 +643,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-4.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-4.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -669,7 +669,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-6.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-6.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -695,7 +695,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-5.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-5.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -728,7 +728,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-7.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-7.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -754,7 +754,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-4.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-4.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -780,7 +780,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-6.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-6.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -806,7 +806,7 @@
                                         <div class="col-lg-3 col-4">
                                             <div class="special-menu-img">
                                                 <a href="menu-details.html">
-                                                    <img src="assets/images/menu/menu-two-img-5.webp" alt="images" />
+                                                    <img src="/assets/images/menu/menu-two-img-5.webp" alt="images" />
                                                 </a>
                                             </div>
                                         </div>
@@ -836,13 +836,13 @@
         </div>
     </div>
     <div class="special-shape-1">
-        <img src="assets/images/menu/menu-two-shape-1.webp" alt="images" />
+        <img src="/assets/images/menu/menu-two-shape-1.webp" alt="images" />
     </div>
     <div class="special-shape-2">
-        <img src="assets/images/menu/menu-two-shape-2.webp" alt="images" />
+        <img src="/assets/images/menu/menu-two-shape-2.webp" alt="images" />
     </div>
     <div class="special-shape-3">
-        <img src="assets/images/menu/menu-two-shape-3.webp" alt="images" />
+        <img src="/assets/images/menu/menu-two-shape-3.webp" alt="images" />
     </div>
 </div>
 
@@ -910,7 +910,7 @@
                     <div class="visit-two-images">
                         <div class="visit-video">
                             <a href="https://www.youtube.com/watch?v=-z-wtyXjFIg" class="popup-youtube">
-                                <img src="assets/images/video-play.svg" alt="images" />
+                                <img src="/assets/images/video-play.svg" alt="images" />
                             </a>
                         </div>
                     </div>
@@ -919,7 +919,7 @@
         </div>
     </div>
     <div class="visit-two-shape-1">
-        <img src="assets/images/reserve-today/visit-two-shape-1.webp" alt="images" />
+        <img src="/assets/images/reserve-today/visit-two-shape-1.webp" alt="images" />
     </div>
 </div>
 
@@ -929,25 +929,25 @@
             <div class="col-lg-8">
                 <div class="top-grade-slider owl-carousel owl-theme">
                     <div class="single-top-grade-card">
-                        <img src="assets/images/top-grade-img-1.webp" alt="images" />
+                        <img src="/assets/images/top-grade-img-1.webp" alt="images" />
                         <div class="top-grade-content">
                             <h3>Arebica Green</h3>
                         </div>
                     </div>
                     <div class="single-top-grade-card">
-                        <img src="assets/images/top-grade-img-2.webp" alt="images" />
+                        <img src="/assets/images/top-grade-img-2.webp" alt="images" />
                         <div class="top-grade-content">
                             <h3>Robiusta Roosted</h3>
                         </div>
                     </div>
                     <div class="single-top-grade-card">
-                        <img src="assets/images/top-grade-img-1.webp" alt="images" />
+                        <img src="/assets/images/top-grade-img-1.webp" alt="images" />
                         <div class="top-grade-content">
                             <h3>Arebica Green</h3>
                         </div>
                     </div>
                     <div class="single-top-grade-card">
-                        <img src="assets/images/top-grade-img-2.webp" alt="images" />
+                        <img src="/assets/images/top-grade-img-2.webp" alt="images" />
                         <div class="top-grade-content">
                             <h3>Robiusta Roosted</h3>
                         </div>
@@ -983,7 +983,7 @@
             <div class="single-team-restaurant-card">
                 <div class="team-restaurant-img">
                     <a href="menu-details.html">
-                        <img src="assets/images/restaurant/restaurant-three-imag-1.webp" alt="images" />
+                        <img src="/assets/images/restaurant/restaurant-three-imag-1.webp" alt="images" />
                     </a>
                     <ul class="team-restaurant-list-icon">
                         <li>
@@ -1018,7 +1018,7 @@
             <div class="single-team-restaurant-card">
                 <div class="team-restaurant-img">
                     <a href="menu-details.html">
-                        <img src="assets/images/restaurant/restaurant-three-imag-2.webp" alt="images" />
+                        <img src="/assets/images/restaurant/restaurant-three-imag-2.webp" alt="images" />
                     </a>
                     <ul class="team-restaurant-list-icon">
                         <li>
@@ -1053,7 +1053,7 @@
             <div class="single-team-restaurant-card">
                 <div class="team-restaurant-img">
                     <a href="menu-details.html">
-                        <img src="assets/images/restaurant/restaurant-three-imag-3.webp" alt="images" />
+                        <img src="/assets/images/restaurant/restaurant-three-imag-3.webp" alt="images" />
                     </a>
                     <ul class="team-restaurant-list-icon">
                         <li>
@@ -1088,7 +1088,7 @@
             <div class="single-team-restaurant-card">
                 <div class="team-restaurant-img">
                     <a href="menu-details.html">
-                        <img src="assets/images/restaurant/restaurant-three-imag-1.webp" alt="images" />
+                        <img src="/assets/images/restaurant/restaurant-three-imag-1.webp" alt="images" />
                     </a>
                     <ul class="team-restaurant-list-icon">
                         <li>
@@ -1123,7 +1123,7 @@
             <div class="single-team-restaurant-card">
                 <div class="team-restaurant-img">
                     <a href="menu-details.html">
-                        <img src="assets/images/restaurant/restaurant-three-imag-2.webp" alt="images" />
+                        <img src="/assets/images/restaurant/restaurant-three-imag-2.webp" alt="images" />
                     </a>
                     <ul class="team-restaurant-list-icon">
                         <li>
@@ -1158,7 +1158,7 @@
             <div class="single-team-restaurant-card">
                 <div class="team-restaurant-img">
                     <a href="menu-details.html">
-                        <img src="assets/images/restaurant/restaurant-three-imag-3.webp" alt="images" />
+                        <img src="/assets/images/restaurant/restaurant-three-imag-3.webp" alt="images" />
                     </a>
                     <ul class="team-restaurant-list-icon">
                         <li>
@@ -1199,7 +1199,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="location-map">
-                    <img src="assets/images/location-map-two.webp" alt="images" />
+                    <img src="/assets/images/location-map-two.webp" alt="images" />
                     <div class="location-text">
                         <span></span>
                         <p>Brazil</p>
@@ -1287,7 +1287,7 @@
                     <h3>Aaron Spacemuseum</h3>
                     <span>SEO - Manager</span>
                     <div class="client-icon">
-                        <img src="assets/images/testimonials-icon.svg" alt="icon" />
+                        <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
@@ -1300,7 +1300,7 @@
                     <h3>Reanne Carnation</h3>
                     <span>SEO</span>
                     <div class="client-icon">
-                        <img src="assets/images/testimonials-icon.svg" alt="icon" />
+                        <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
@@ -1313,7 +1313,7 @@
                     <h3>Val Adictorian</h3>
                     <span>Manager</span>
                     <div class="client-icon">
-                        <img src="assets/images/testimonials-icon.svg" alt="icon" />
+                        <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
@@ -1326,7 +1326,7 @@
                     <h3>Aaron Spacemuseum</h3>
                     <span>SEO - Manager</span>
                     <div class="client-icon">
-                        <img src="assets/images/testimonials-icon.svg" alt="icon" />
+                        <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
@@ -1339,7 +1339,7 @@
                     <h3>Reanne Carnation</h3>
                     <span>SEO</span>
                     <div class="client-icon">
-                        <img src="assets/images/testimonials-icon.svg" alt="icon" />
+                        <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
@@ -1352,7 +1352,7 @@
                     <h3>Val Adictorian</h3>
                     <span>Manager</span>
                     <div class="client-icon">
-                        <img src="assets/images/testimonials-icon.svg" alt="icon" />
+                        <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
@@ -1376,7 +1376,7 @@
                     <div class="col-lg-6">
                         <div class="blog-two-img">
                             <a href="blog-details.html">
-                                <img src="assets/images/blog/blog-two-img-1.webp" alt="images" />
+                                <img src="/assets/images/blog/blog-two-img-1.webp" alt="images" />
                             </a>
                             <div class="blog-time">
                                 <span>12 September 2022</span>
@@ -1406,7 +1406,7 @@
                     <div class="col-lg-6">
                         <div class="blog-two-img">
                             <a href="blog-details.html">
-                                <img src="assets/images/blog/blog-two-img-2.webp" alt="images" />
+                                <img src="/assets/images/blog/blog-two-img-2.webp" alt="images" />
                             </a>
                             <div class="blog-time">
                                 <span>17 September 2022</span>
@@ -1436,7 +1436,7 @@
                     <div class="col-lg-6">
                         <div class="blog-two-img">
                             <a href="blog-details.html">
-                                <img src="assets/images/blog/blog-two-img-1.webp" alt="images" />
+                                <img src="/assets/images/blog/blog-two-img-1.webp" alt="images" />
                             </a>
                             <div class="blog-time">
                                 <span>12 September 2022</span>
@@ -1466,7 +1466,7 @@
                     <div class="col-lg-6">
                         <div class="blog-two-img">
                             <a href="blog-details.html">
-                                <img src="assets/images/blog/blog-two-img-2.webp" alt="images" />
+                                <img src="/assets/images/blog/blog-two-img-2.webp" alt="images" />
                             </a>
                             <div class="blog-time">
                                 <span>17 September 2022</span>
