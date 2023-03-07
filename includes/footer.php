@@ -1,90 +1,63 @@
 <div class="footer-widget-area pt-100 pb-70">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-sm-6 col-md-6" data-cue="slideInUp">
+            <div class="col-lg-4 col-sm-6 col-md-6" data-cue="slideInUp">
                 <div class="footer-widget">
                     <a href="index.html">
-                        <img src="/assets/images/logo-1.webp" alt="images" />
+                        <img src="/assets/images/logo-2.webp" alt="images" />
                     </a>
                     <p>
-                        There are many variations of passages of lorem ipsum available
-                        but the majority have suffered alteration in some form.
+                        ¡Esperamos que nos visites pronto para disfrutar de nuestros deliciosos platillos!
                     </p>
                     <ul class="footer-widget-list">
                         <li>
-                            <a href="https://facebook.com/" target="_blank">
+                            <a target="_blank" href="https://www.facebook.com/laramonasanjose/" target="_blank">
                                 <i class="bx bxl-facebook"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://twitter.com/" target="_blank">
-                                <i class="bx bxl-twitter"></i>
+                            <a target="_blank"
+                                href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d19827818-Reviews-La_Ramona_Restaurant-San_Jose_del_Cabo_Los_Cabos_Baja_California.html"
+                                target="_blank">
+                                <i class="bx bxl-trip-advisor"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://linkedin.com/" target="_blank">
-                                <i class="bx bxl-linkedin"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.google.com/" target="_blank">
-                                <i class="bx bxl-google"></i>
+                            <a target="_blank" href="https://www.instagram.com/laramonasanjose/?hl=es" target="_blank">
+                                <i class="bx bxl-instagram"></i>
                             </a>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6 col-md-6" data-cue="slideInUp">
-                <div class="footer-widget">
-                    <h2>Useful Link</h2>
-                    <ul class="footer-list">
-                        <li>
-                            <i class="bx bxs-downvote"></i><a href="about.html">About Us</a>
-                        </li>
-                        <li>
-                            <i class="bx bxs-downvote"></i><a href="blog.html">Latest Blog</a>
-                        </li>
-                        <li>
-                            <i class="bx bxs-downvote"></i><a href="booking-table.html">Book A Table</a>
-                        </li>
-                        <li>
-                            <i class="bx bxs-downvote"></i><a href="contact.html">Contact Us</a>
-                        </li>
-                        <li>
-                            <i class="bx bxs-downvote"></i><a href="team.html">Our Team</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6 col-md-6" data-cue="slideInUp">
+            <div class="col-lg-4 col-sm-6 col-md-6" data-cue="slideInUp">
                 <div class="footer-widget footer-services">
-                    <h2>Opening Hours</h2>
+                    <h2>Horarios:</h2>
                     <ul class="footer-list">
-                        <li>Monday <span>08:00 AM – 05:00 PM</span></li>
-                        <li>Thesday <span>09:00 AM – 06:00 PM</span></li>
-                        <li>Wednesday <span>10:00 AM – 05:00 PM</span></li>
-                        <li>Friday <span>09:00 AM – 05:00 PM</span></li>
-                        <li>Sat - Sun <span>Closed</span></li>
+                        <li>Abiertos todos los días <span>09:00 AM – 11:00 PM</span></li>
+                        <li>Desayuno <span>09:00 AM – 12:00 PM</span></li>
+                        <li>Lunch <span>12:00 AM – 05:00 PM</span></li>
+                        <li>Cenas <span>05:00 PM – 11:00 PM</span></li>
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6 col-md-6" data-cue="slideInUp">
+            <div class="col-lg-4 col-sm-6 col-md-6" data-cue="slideInUp">
                 <div class="footer-widget">
                     <h2>Get In Touch</h2>
                     <div class="footer-item">
                         <i class="bx bxs-phone-call"></i>
-                        <a href="tel:(800)2162020">(800) 216 2020</a>
+                        <a href="tel:6241308444">(624) 130 8444</a>
                     </div>
                     <div class="footer-item">
                         <i class="bx bx-envelope"></i>
-                        <a
-                            href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#69010c050506291b1c1306470a0604"><span
-                                class="__cf_email__"
-                                data-cfemail="274f424b4b486755525d480944484a">[email&#160;protected]</span></a>
+                        <a target="_blank" href="mailto:reservations@laramona.com.mx"><span>
+                                reservations@laramona.com.mx</span></a>
                     </div>
                     <div class="footer-item">
                         <i class="bx bx-map"></i>
-                        <p>No. 12, Ribon Building, Walse street, Australia</p>
+                        <a target="_blank" href="https://goo.gl/maps/SnUVg8gY19Win9LF6">
+                            <p>Gallery District, Centro</p>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -106,8 +79,8 @@
 
 <div class="copyright-content">
     <p>
-        ©<b>Ruzo</b> is Proudly Owned by
-        <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a>
+        ©<b>La Ramona.</b> Diseñada por
+        <a target="_blank" href="https://bananagroup.mx/" target="_blank">Banana Group Marketing</a>
     </p>
 </div>
 

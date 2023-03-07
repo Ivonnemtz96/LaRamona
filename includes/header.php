@@ -5,13 +5,18 @@
                 <div class="submenu-right-content">
                     <ul>
                         <li>
-                            <a href="https://www.facebook.com/laramonasanjose/" target="_blank">
+                            <a target="_blank" href="https://www.facebook.com/laramonasanjose/" target="_blank">
                                 <i class="bx bxl-facebook"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.instagram.com/laramonasanjose/?hl=es" target="_blank">
+                            <a target="_blank" href="https://www.instagram.com/laramonasanjose/?hl=es" target="_blank">
                                 <i class="bx bxl-instagram"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d19827818-Reviews-La_Ramona_Restaurant-San_Jose_del_Cabo_Los_Cabos_Baja_California.html" target="_blank">
+                                <i class="bx bxl-trip-advisor"></i>
                             </a>
                         </li>
                     </ul>
@@ -26,7 +31,7 @@
                         </li>
                         <li>
                             <img src="/assets/images/email-icon.svg" alt="icon" />
-                            <a
+                            <a target="_blank"
                                 href="mailto:reservations@laramona.com.mx"><span> reservations@laramona.com.mx</span></a>
                         </li>
                         <li>
