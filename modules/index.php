@@ -150,29 +150,29 @@
             <h2>La divina sensación del sabor</h2>
         </div>
         <div class="portfolio-two-slider owl-carousel owl-theme">
-            <div class="portfolio-two-card">
+            <div class="">
                 <img src="/assets/images/portfolio/portfolio-two-img-1.webp" alt="images" />
             </div>
-            <div class="portfolio-two-card">
+            <div class="">
                 <img src="/assets/images/portfolio/portfolio-two-img-2.webp" alt="images" />
             </div>
-            <div class="portfolio-two-card">
+            <div class="">
                 <img src="/assets/images/portfolio/portfolio-two-img-3.webp" alt="images" />
             </div>
-            <div class="portfolio-two-card">
+            <div class="">
                 <img src="/assets/images/portfolio/portfolio-two-img-4.webp" alt="images" />
             </div>
-            <div class="portfolio-two-card">
+            <div class="">
                 <img src="/assets/images/portfolio/portfolio-two-img-1.webp" alt="images" />
 
             </div>
-            <div class="portfolio-two-card">
+            <div class="">
                 <img src="/assets/images/portfolio/portfolio-two-img-2.webp" alt="images" />
             </div>
-            <div class="portfolio-two-card">
+            <div class="">
                 <img src="/assets/images/portfolio/portfolio-two-img-3.webp" alt="images" />
             </div>
-            <div class="portfolio-two-card">
+            <div class="">
                 <img src="/assets/images/portfolio/portfolio-two-img-4.webp" alt="images" />
             </div>
         </div>
@@ -252,19 +252,19 @@
             <div class="col-lg-8">
                 <div class="top-grade-slider owl-carousel owl-theme">
                     <div class="single-top-grade-card">
-                        <img src="/assets/images/top-grade-img-1.webp" alt="images" />
+                        <img src="/assets/images/top-grade-img-3.webp" alt="images" />
                         <div class="top-grade-content">
                             <h3>Shows en vivo</h3>
                         </div>
                     </div>
                     <div class="single-top-grade-card">
-                        <img src="/assets/images/top-grade-img-2.webp" alt="images" />
+                        <img src="/assets/images/top-grade-img-1.webp" alt="images" />
                         <div class="top-grade-content">
                             <h3>Desayunos</h3>
                         </div>
                     </div>
                     <div class="single-top-grade-card">
-                        <img src="/assets/images/top-grade-img-1.webp" alt="images" />
+                        <img src="/assets/images/top-grade-img-4.webp" alt="images" />
                         <div class="top-grade-content">
                             <h3>Lunch</h3>
                         </div>
