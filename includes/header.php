@@ -49,7 +49,7 @@
     <div class="container">
         <div class="mobile-nav">
             <div class="logo">
-                <a href="index.html">
+                <a href="/">
                     <img src="/assets/images/logo-1.webp" class="logo-light" alt="images" />
                     <img src="/assets/images/logo-2.webp" class="logo-dark" alt="images" />
                 </a>
@@ -63,7 +63,7 @@
                 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item logo">
-                            <a href="index.html" class="nav-link">
+                            <a href="/" class="nav-link">
                                 <img src="/assets/images/logo-1.webp" class="logo-light" alt="images" />
                                 <img src="/assets/images/logo-2.webp" class="logo-dark" alt="images" />
                             </a>
