@@ -1124,6 +1124,8 @@ Start Page Banner area
 }
 .pag-banner-area.menu-pages-banner-area {
   background-image: url(../images/page/page-banner-bg-2.webp);
+  background-position: bottom center !important;
+  background-size: contain !important;
 }
 .pag-banner-area.portfolio-pages-area {
   background-image: url(../images/page/page-banner-bg-3.webp);
@@ -7680,3 +7682,17 @@ Others Option For Responsive Area Style
   visibility: visible;
   transform: scaleY(1);
 }/*# sourceMappingURL=style.css.map */
+
+/* fluid 5 columns */
+.grid-sizer,
+.grid-item { width: 30%; }
+/* 2 columns */
+.grid-item--width2 { width: 40%; }
+
+@media screen and (max-width: 500px)  {
+  /* fluid 5 columns */
+.grid-sizer,
+.grid-item { width: 80%; }
+/* 2 columns */
+.grid-item--width2 { width: 80%; }
+}

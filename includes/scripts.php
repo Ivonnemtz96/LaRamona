@@ -16,3 +16,23 @@
 <script src="/assets/js/subscribe-custom.js"></script>
 <script src="/assets/js/contact-form-script.js"></script>
 <script src="/assets/js/main.js"></script>
+
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+
+<script>
+// external js: isotope.pkgd.js
+
+$('.grid').isotope({
+  // set itemSelector so .grid-sizer is not used in layout
+  itemSelector: '.grid-item',
+  percentPosition: true,
+  masonry: {
+    // set to the element
+    columnWidth: 10,
+    gutter: 30
+  }
+
+
+})
+</script>
+

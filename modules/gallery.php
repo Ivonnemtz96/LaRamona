@@ -13,7 +13,7 @@
     </div>
 </div>
 
-<div class="portfolio-page-area pt-100 pb-100">
+<div hidden class="portfolio-page-area pt-100 pb-100">
     <div class="container">
         <div class="section-title">
             <span class="top-title">Nuestra Galería</span>
@@ -120,5 +120,54 @@
                 <i class="bx bx-chevron-right"></i>
             </a>
         </div>
+    </div>
+</div>
+
+<div class="gallery-masonry container mt-5 mb-5">
+    <div class="grid ">
+        <div class="grid-item grid-item--height2 mb-3 mb-4">
+            <img src="/assets/images/portfolio/1.webp" alt="">
+        </div>
+
+        <div class="grid-item grid-item--height3 mb-3 mb-4">
+            <img src="/assets/images/portfolio/3.webp" alt="">
+        </div>
+
+        <div class="grid-item mb-3 mb-4">
+            <img src="/assets/images/portfolio/2.webp" alt="">
+        </div>
+
+
+        <div class="grid-item grid-item--height2 mb-3 mb-4">
+            <img src="/assets/images/portfolio/4.webp" alt="">
+        </div>
+
+        <div class="grid-item grid-item--height2 mb-3 mb-4">
+            <img src="/assets/images/portfolio/6.webp" alt="">
+        </div>
+
+        <div class="grid-item grid-item--height3 mb-3 mb-4">
+            <img src="/assets/images/portfolio/5.webp" alt="">
+        </div>
+
+        <div class="grid-item mb-3 mb-4">
+            <img src="/assets/images/portfolio/11.webp" alt="">
+        </div>
+
+        <div class="grid-item grid-item grid-item--height2 mb-3 mb-4">
+            <img src="/assets/images/portfolio/12.webp" alt="">
+
+        </div>
+
+        <div class="grid-sizer grid-item mb-3 mb-4">
+            <img src="/assets/images/portfolio/13.webp" alt="">
+
+        </div>
+
+        <div class="grid-sizer grid-item grid-item--height2 mb-3 mb-4">
+            <img src="/assets/images/portfolio/10.webp" alt="">
+
+        </div>
+
     </div>
 </div>
