@@ -128,13 +128,13 @@
                     </div>
                     <div class="about-natural">
                         <div class="natural-img">
-                            <img src="/assets/images/about/about-two-img-2.webp" alt="images" />
+                            <img src="/assets/images/corte.png" alt="images" />
                         </div>
                         <h3>Los mejores cortes</h3>
                     </div>
                     <div class="about-natural about-natural-two">
                         <div class="natural-img">
-                            <img src="/assets/images/about/about-two-img-3.webp" alt="images" />
+                            <img src="/assets/images/pizza.png" alt="images" />
                         </div>
                         <h3>Las mejores pizzas</h3>
                     </div>
