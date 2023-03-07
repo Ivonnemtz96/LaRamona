@@ -49,9 +49,11 @@
             <div class="col-lg-4 col-sm-6 col-md-6" data-cue="slideInUp">
                 <div class="single-features-card">
                     <div class="features-img">
-                        <img style="width: 64px; height: 64px;" src="/assets/images/features/features-1.webp" alt="images" />
+                        <img style="width: 64px; height: 64px;" src="/assets/images/features/features-1.webp"
+                            alt="images" />
                         <div class="features-img-2">
-                            <img  style="width: 64px; height: 64px;" src="/assets/images/features/features-4.webp" alt="images" />
+                            <img style="width: 64px; height: 64px;" src="/assets/images/features/features-4.webp"
+                                alt="images" />
                         </div>
                     </div>
                     <h3>Los mejores desayunos</h3>
@@ -302,80 +304,73 @@
         <div class="testimonials-two-slider owl-carousel owl-theme">
             <div class="testimonials-two-card">
                 <div class="testimonials-client-inform">
-                    <h3>Aaron Spacemuseum</h3>
-                    <span>SEO - Manager</span>
+                    <h3>Ramón Ojeda</h3>
                     <div class="client-icon">
                         <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
-                    Sed ut perspiciatis unde omnis istatus error sit voluptatem
-                    accusantium doemque laudantium totam rem aperiam.
+                    Un lugar muy agradable, con unas pizzas bastante interesantes.
                 </p>
             </div>
             <div class="testimonials-two-card">
                 <div class="testimonials-client-inform">
-                    <h3>Reanne Carnation</h3>
-                    <span>SEO</span>
+                    <h3>Miriam GR</h3>
                     <div class="client-icon">
                         <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
-                    Sed ut perspiciatis unde omnis istatus error sit voluptatem
-                    accusantium doemque laudantium totam rem aperiam.
+                    El lugar es bonito y muy agradable, y la comida uuffff deliciosa. Fuimos en familia y la pasamos muy
+                    bien. Les recomiendo ir los jueves ya que hay música en vivo y cierran más tarde. No tienen
+                    estacionamiento, nosotros dejamos el coche en la calle y llegamos caminando.
                 </p>
             </div>
             <div class="testimonials-two-card">
                 <div class="testimonials-client-inform">
-                    <h3>Val Adictorian</h3>
-                    <span>Manager</span>
+                    <h3>Lizet MR</h3>
                     <div class="client-icon">
                         <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
-                    Sed ut perspiciatis unde omnis istatus error sit voluptatem
-                    accusantium doemque laudantium totam rem aperiam.
+                    Este lugar, además de ser sumamente atractivo, visualmente hablando, tiene una única y exclusiva,
+                    riquisima pizza de pastor. MUY recomendable. Y me tomé un par de mezcalitas de Jamaica, 🤤👌🏻
                 </p>
             </div>
             <div class="testimonials-two-card">
                 <div class="testimonials-client-inform">
-                    <h3>Aaron Spacemuseum</h3>
-                    <span>SEO - Manager</span>
+                    <h3>Calka Calkiux</h3>
                     <div class="client-icon">
                         <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
-                    Sed ut perspiciatis unde omnis istatus error sit voluptatem
-                    accusantium doemque laudantium totam rem aperiam.
+                    Agradable a la vista, cálido, ideal para una cena de amigos o romántica. Excelente servicio. Comida
+                    sabrosa.
                 </p>
             </div>
             <div class="testimonials-two-card">
                 <div class="testimonials-client-inform">
-                    <h3>Reanne Carnation</h3>
-                    <span>SEO</span>
+                    <h3>Joaquìn Durà Rius</h3>
                     <div class="client-icon">
                         <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
-                    Sed ut perspiciatis unde omnis istatus error sit voluptatem
-                    accusantium doemque laudantium totam rem aperiam.
+                    Pues yo de momento solo fui a tomar una cerveza....pero el lugar me pareció muy agradable, me
+                    atendieron con mucha amabilidad y me sentí muy a gusto....repetiré seguro
                 </p>
             </div>
             <div class="testimonials-two-card">
                 <div class="testimonials-client-inform">
-                    <h3>Val Adictorian</h3>
-                    <span>Manager</span>
+                    <h3>Ana Lucía</h3>
                     <div class="client-icon">
                         <img src="/assets/images/testimonials-icon.svg" alt="icon" />
                     </div>
                 </div>
                 <p>
-                    Sed ut perspiciatis unde omnis istatus error sit voluptatem
-                    accusantium doemque laudantium totam rem aperiam.
+                    Comida muy rica, la pizza deliciosa, el ambiente muy tranquilo y agusto, muy buena atención!
                 </p>
             </div>
         </div>
