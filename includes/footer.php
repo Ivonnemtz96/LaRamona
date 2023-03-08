@@ -43,7 +43,7 @@
             </div>
             <div class="col-lg-4 col-sm-6 col-md-6" data-cue="slideInUp">
                 <div class="footer-widget">
-                    <h2>Get In Touch</h2>
+                    <h2>Contáctanos</h2>
                     <div class="footer-item">
                         <i class="bx bxs-phone-call"></i>
                         <a href="tel:6241308444">(624) 130 8444</a>
