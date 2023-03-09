@@ -190,7 +190,7 @@
                     <div class="single-visit-two-form">
                         <div class="section-title left-title">
                             <span class="top-title">¡Vísitanos!</span>
-                            <h2>Haz tu reserva y dsfruta de una experiencia inolvidable</h2>
+                            <h2>Haz tu reserva y disfruta de una experiencia inolvidable</h2>
                         </div>
                         <form>
                             <div class="row">
